@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhanukiran12
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on experts to gain experience
 - 📫 How to reach me ?  mail me bhanukiran750@gmail.co
 
